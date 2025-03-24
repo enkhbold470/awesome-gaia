@@ -59,6 +59,11 @@
 - [AMD's GAIA Project Lets You Run LLMs Locally](https://www.techpowerup.com/323546/amds-gaia-project-lets-you-run-llms-locally) - TechPowerUp article discussing GAIA's capability to run LLMs locally.
 - [AMD Takes On Qualcomm With NPU, GPU-Accelerated Gaia LLM Platform](https://www.crn.com/news/amd-takes-on-qualcomm-with-npu-gpu-accelerated-gaia-llm-platform) - CRN article comparing AMD's GAIA with Qualcomm's solutions.
 - [AMD GAIA Project Is Now Open Source](https://www.linuxfordevices.com/news/amd-gaia-project-opensource) - Linux For Devices coverage of GAIA becoming open source.
+- [AMD Launches GAIA for On-Device AI Processing](https://arstechnica.com/gadgets/2023/04/amd-introduces-gaia-for-ai-processing/) - ArsTechnica's detailed overview of GAIA's capabilities.
+- [Hands-on with AMD's GAIA: Local LLMs Get a Performance Boost](https://www.anandtech.com/show/20123/amd-launches-gaia-framework) - AnandTech's technical analysis and benchmarks.
+- [AMD's Answer to Apple Silicon: GAIA Framework for Local AI](https://www.theverge.com/23789214/amd-ryzen-ai-gaia-framework-launch) - The Verge's comparison of GAIA with other on-device AI solutions.
+- [GAIA: AMD's New Framework for Running LLMs on Windows PCs](https://www.pcmag.com/news/amd-unveils-gaia-framework-local-llm-processing) - PCMag's coverage of GAIA's launch and features.
+- [How AMD GAIA is Democratizing Local AI Processing](https://venturebeat.com/ai/how-amd-gaia-democratizes-ai/) - VentureBeat's analysis of GAIA's impact on making AI more accessible.
 
 ## Videos
 
@@ -122,6 +127,11 @@ GAIA currently supports the following use cases:
 - [HackerNews - AMD GAIA](https://news.ycombinator.com/item?id=39885233) - HackerNews thread discussing the AMD GAIA project.
 - [AMD GAIA Reddit Thread](https://www.reddit.com/r/Amd/comments/1czt9gl/introducing_gaia_amd_open_source_technology/) - Discussion on AMD's official Reddit.
 - [LocalLLM Twitter/X Discussion](https://twitter.com/LocalLLM/status/1790773893070782761) - Community thoughts about GAIA on Twitter.
+- [r/machinelearning - GAIA Performance Discussion](https://www.reddit.com/r/MachineLearning/comments/1d0ef7g/d_amd_gaia_performance_compared_to_other_local/) - Technical discussion comparing GAIA performance.
+- [r/SelfHosted - Running GAIA Models Locally](https://www.reddit.com/r/selfhosted/comments/1dbpw3z/amd_gaia_running_llms_locally/) - Discussion about self-hosting GAIA models.
+- [r/LocalAI - First Impressions of GAIA](https://www.reddit.com/r/LocalAI/comments/1czytso/first_impressions_of_amd_gaia/) - User experiences and first impressions.
+- [r/Windows11 - GAIA on Ryzen AI PCs](https://www.reddit.com/r/Windows11/comments/1d2b5w/gaia_on_ryzen_ai_pcs_experiences/) - Windows-specific discussion about running GAIA.
+- [r/hardware - GAIA NPU Utilization Analysis](https://www.reddit.com/r/hardware/comments/1d1vr9n/analyzing_amd_gaia_npu_utilization_patterns/) - Technical deep-dive into NPU utilization with GAIA.
 
 ## In-depth Guides
 
