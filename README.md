@@ -42,7 +42,8 @@
 
 ## Community Projects
 
-- *This section is for community-built projects that extend or enhance GAIA functionality. [Contribute](CONTRIBUTING.md) to add yours!*
+- [GAIA Prompt Library](https://github.com/enkhbold470/gaia-prompt-library) - A collection of optimized prompts specially designed for AMD GAIA LLM models.
+- *Want to add your project? [Contribute](CONTRIBUTING.md) to add yours!*
 
 ## Tutorials
 
@@ -53,7 +54,7 @@
 
 ## Articles
 
-- [AMD Announces Open-Source "GAIA" For GenAI](https://www.phoronix.com/news/AMD-GAIA-Open-Source) - Introduction to the GAIA project on Phoronix.
+- [AMD Announces Open-Source \"GAIA\" For GenAI](https://www.phoronix.com/news/AMD-GAIA-Open-Source) - Introduction to the GAIA project on Phoronix.
 - [AMD launches Gaia open source project for running LLMs locally on any PC](https://www.tomshardware.com/tech-industry/artificial-intelligence/amd-launches-gaia-open-source-project-for-running-llms-locally-on-any-pc) - Overview of GAIA on Tom's Hardware.
 - [AMD's GAIA Project Lets You Run LLMs Locally](https://www.techpowerup.com/323546/amds-gaia-project-lets-you-run-llms-locally) - TechPowerUp article discussing GAIA's capability to run LLMs locally.
 - [AMD Takes On Qualcomm With NPU, GPU-Accelerated Gaia LLM Platform](https://www.crn.com/news/amd-takes-on-qualcomm-with-npu-gpu-accelerated-gaia-llm-platform) - CRN article comparing AMD's GAIA with Qualcomm's solutions.
@@ -119,6 +120,8 @@ GAIA currently supports the following use cases:
 
 - [Reddit r/LocalLLaMA - GAIA Discussion](https://www.reddit.com/r/LocalLLaMA/comments/1cxh4n3/amd_gaia_project_for_running_llms_in_windows/) - Community discussion about GAIA on Reddit.
 - [HackerNews - AMD GAIA](https://news.ycombinator.com/item?id=39885233) - HackerNews thread discussing the AMD GAIA project.
+- [AMD GAIA Reddit Thread](https://www.reddit.com/r/Amd/comments/1czt9gl/introducing_gaia_amd_open_source_technology/) - Discussion on AMD's official Reddit.
+- [LocalLLM Twitter/X Discussion](https://twitter.com/LocalLLM/status/1790773893070782761) - Community thoughts about GAIA on Twitter.
 
 ## In-depth Guides
 
