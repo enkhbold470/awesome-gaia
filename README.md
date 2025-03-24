@@ -16,6 +16,7 @@
 - [Applications](#applications)
 - [Benchmarks](#benchmarks)
 - [Discussions](#discussions)
+- [Guides](#guides)
 - [Contributing](#contributing)
 
 ## Official Resources
@@ -55,6 +56,7 @@
 - [Phi-2](https://huggingface.co/microsoft/phi-2) - 2.7B parameter model compatible with GAIA.
 - [Llama 2](https://huggingface.co/meta-llama/Llama-2-7b) - Meta's 7B parameter model that can be run with GAIA.
 - [Vicuna 7B](https://huggingface.co/lmsys/vicuna-7b-v1.5) - Fine-tuned LLaMA model that works with GAIA.
+- [See detailed model comparison](model-comparison.md) - Comprehensive comparison of models compatible with GAIA.
 
 ## Tools
 
@@ -73,6 +75,14 @@
 
 - [Reddit r/LocalLLaMA - GAIA Discussion](https://www.reddit.com/r/LocalLLaMA/comments/1cxh4n3/amd_gaia_project_for_running_llms_in_windows/) - Community discussion about GAIA on Reddit.
 - [HackerNews - AMD GAIA](https://news.ycombinator.com/item?id=39885233) - HackerNews thread discussing the AMD GAIA project.
+
+## Guides
+
+This repository includes several in-depth guides to help you get the most out of GAIA:
+
+- [Getting Started Guide](getting-started.md) - Comprehensive guide to setting up and using GAIA
+- [Hardware Requirements Guide](hardware-guide.md) - Detailed information about compatible hardware and optimization
+- [Model Comparison Guide](model-comparison.md) - Comparison of various models that work with GAIA
 
 ## Contributing
 
