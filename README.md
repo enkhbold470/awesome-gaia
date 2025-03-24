@@ -83,6 +83,7 @@ This repository includes several in-depth guides to help you get the most out of
 - [Getting Started Guide](getting-started.md) - Comprehensive guide to setting up and using GAIA
 - [Hardware Requirements Guide](hardware-guide.md) - Detailed information about compatible hardware and optimization
 - [Model Comparison Guide](model-comparison.md) - Comparison of various models that work with GAIA
+- [GAIA vs Alternatives](gaia-vs-alternatives.md) - How GAIA compares to other local LLM solutions like Ollama, LM Studio, and llama.cpp
 
 ## Contributing
 
